@@ -134,6 +134,7 @@ body {
 
 .header-container1:hover, .header-container2:hover, .header-container3:hover, .header-container4:hover {
     opacity: 1;
+    animation: ease-in 2s;
 }
 
 nav {
